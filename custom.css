@@ -1,0 +1,16 @@
+body {
+    padding-bottom: 3rem;
+    background-image: linear-gradient(to bottom right, #5c4033, #7b3f00);
+}
+
+.fixed-header {
+    background-color: #5c4033;
+}
+
+.fixed-footer {
+    background-color: #7b3f00;
+}
+
+.dropdown-menu {
+    background-color: #826644;
+}
