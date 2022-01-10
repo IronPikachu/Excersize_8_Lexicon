@@ -14,3 +14,7 @@ body {
 .dropdown-menu {
     background-color: #826644;
 }
+
+h2, h3, p, dt, dd, h1, li {
+    color: white;
+}
